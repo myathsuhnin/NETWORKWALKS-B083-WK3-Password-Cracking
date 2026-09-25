@@ -111,11 +111,6 @@ The larger wordlist succeeded where the built-in list failed, confirming the has
 
 ---
 
-Author
-Lana
-
----
-
 ## Author
 
 Lana
